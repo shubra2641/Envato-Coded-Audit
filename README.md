@@ -164,7 +164,7 @@ codeaudit-pro/
 ├── database/
 │   ├── migrations/                     # Database schema
 │   └── seeders/                        # Default data
-└── docs/                               # Complete documentation
+└── docs/                               # Complete documentation (included in package)
 ```
 
 ---
@@ -173,7 +173,6 @@ codeaudit-pro/
 
 📧 **Email:** aboutsystem2@gmail.com  
 🌐 **Live Demo:** [https://codeaudit.my-logos.com](https://codeaudit.my-logos.com)  
-📚 **Documentation:** [https://docs.codeaudit.my-logos.com](https://docs.codeaudit.my-logos.com)  
 💬 **Live Chat:** Inside your dashboard
 
 ### **For Business Inquiries:**

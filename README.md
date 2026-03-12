@@ -83,7 +83,7 @@ Modern JS framework scanning:
 graph LR
     A[Upload Project ZIP] --> B[Background Queue Processing]
     B --> C[8-Layer Scan Engine]
-    C --> D[Detailed PDF Report]
+    C --> D[Detailed MarkDown Report]
     D --> E[Fix Issues & Submit]
 ```
 
